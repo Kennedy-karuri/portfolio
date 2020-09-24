@@ -23,14 +23,13 @@
 .home{
     text-align:center;
     height: 100vh;
-    background-image:url(images/portfolio\ 1.jpg);
-    background-repeat:no-repeat;
+    background-image: url(./images/pete-nowicki-8G_VvJrYKkE-unsplash.jpg);
     background-size: cover;
     width: 100%;
 }
 h1{
-    color: white;
-    padding-top: 2cm;
+    color: black;
+    padding-top: 5cm;
     font-stretch: extra-expanded;
     font-style: italic;
     font-size: 2cm;
