@@ -1,0 +1,45 @@
+.nav{
+    text-align: center;
+    font-size: large;
+    font-weight:bolder ;
+    flex: inherit;
+    word-spacing:1cm ;
+    
+    
+}
+    
+.nav li{
+    display: inline-flex;
+    
+    
+}
+.nav ul{
+    list-style: none;
+    background-color: white;
+    text-align:center;
+    
+    
+}
+.about1, .about2, .about3, .about4{
+    display: flex;
+    
+     
+}
+.text1, .text3{
+    padding-left: 50px;
+    width: 1000px;
+}
+.text2{
+    width:700px
+}
+.image2{
+    padding-left: 50px;
+}
+h2{
+    text-align: center;
+}
+.about{
+    background-image: url(./images/pete-nowicki-8G_VvJrYKkE-unsplash.jpg);
+    background-size: cover;
+    
+}
