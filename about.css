@@ -37,9 +37,16 @@
 }
 h2{
     text-align: center;
+    color: rgb(230, 28, 28);
 }
 .about{
     background-image: url(./images/grey.jpg);
     background-size: cover;
     
+}
+p strong{
+    color: red;
+}
+p{
+   font-size: 0.8cm;
 }

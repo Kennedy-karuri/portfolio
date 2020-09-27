@@ -17,28 +17,24 @@
     list-style: none;
     background-color: white;
     text-align:center;
+    
+    
 }
- 
-
-.project1{
-    display: inline;
-}
-.project2{
-    display: inline;
-}
-.projects{
+.contact{
+    text-align:center;
+    height: 100vh;
     background-image: url(./images/grey.jpg);
     background-size: cover;
-    
+    width: 100%;
+}
+
+p{
+   font-size: 0.8cm;
 }
 h2{
     text-align: center;
     color: rgb(230, 28, 28);
 }
-p strong{
-    color: red;
+span{
+    font-size: 0.8cm;
 }
-p{
-   font-size: 0.8cm;
-}
-
