@@ -26,16 +26,12 @@
     background-image: url(./images/grey.jpg);
     background-size: cover;
     width: 100%;
-    display: flex;
 }
 h1{
     color: black;
-    padding-top: 2cm;
+    padding-top: 5cm;
     font-stretch: extra-expanded;
     font-style: italic;
     font-size: 2cm;
     font-weight: bolder;
-}
-img{
-    align-self: center;
 }
